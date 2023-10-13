@@ -1,0 +1,1 @@
+<view> 个人中心 <button bindtap="{{a}}">退出登录</button></view>
